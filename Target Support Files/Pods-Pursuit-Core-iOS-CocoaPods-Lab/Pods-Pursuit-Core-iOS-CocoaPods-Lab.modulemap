@@ -1,0 +1,6 @@
+framework module Pods_Pursuit_Core_iOS_CocoaPods_Lab {
+  umbrella header "Pods-Pursuit-Core-iOS-CocoaPods-Lab-umbrella.h"
+
+  export *
+  module * { export * }
+}
